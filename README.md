@@ -2,7 +2,7 @@
 
 This notebook aims to analyze whether playing at home without a crowd is still an advantage. Besides stastical models, predictive models based on past performances were also applied to see how the results could have looked like if COVID had not happened.
 
-All code is shown in the Jupyter notebook.
+All code is shown in the [jupyter notebook](https://github.com/christopherkindl/premier-league/blob/main/Home-advantage-in-football-during-covid.ipynb).
 
 ## Features for predicition:
 
